@@ -1,3 +1,4 @@
+###
 def dobra(lst):
     pos = 0
     while pos <len(lst):
